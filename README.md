@@ -33,7 +33,7 @@
     -   git commit -m '< your commit message here>'
     -   git push
 
-# Pulling
+## Pulling
 
 -   Pulling is used to pull in changes that exist on github but NOT on your local machine, e.g. github has a file on it that I do not have on my computer. To fix this I would use "git pull"
 
