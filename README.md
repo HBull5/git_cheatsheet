@@ -39,7 +39,7 @@
 
 -   You will not be able to push code if your local machine does not have the latest commit in github, rule of thumb before you write any code go ahead and run a git pull to make sure you have everything you need as untangling this can be a bit messy.
 
-# Pull Requests
+## Pull Requests
 
 -   A pull request is a request to pull in code from one branch to another branch, or from one fork to another. To make things even more messy it is even possible to open pull requests between forks over two different branches though this shouldn't happen often.
 
